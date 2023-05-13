@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/xZ6YzXZkSs64wk4s7C/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/briangor">
+  <a href="https://www.linkedin.com/in/michellejuliet">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.twitter.com/brianxgor">
+  <a href="https://www.twitter.com/mitchyj_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
