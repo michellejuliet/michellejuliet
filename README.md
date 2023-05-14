@@ -16,15 +16,17 @@
 
 <!--
 **michellejuliet/michellejuliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Bio:
+
+- 🔭 I’m currently working on Machine learning with python
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with Tensorflow or Keras
+- 💬 Ask me about Data, code and beauty
+- 📫 How to reach me: Twitter, LinkedIn
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I used to want to be a pilot when I was younger, now I'm happily writing codes 😆
+
+### Languages and Tools
+Python, R, HTML, CSS, SQL, pandas, NumPy, MATLAB, Tableau, Ms Excel, PowerBi,
