@@ -34,7 +34,7 @@
 - Machine learning libraries: Scikit-learn, TensorFlow, PyTorch
 - Visualization tools: Tableau, Matplotlib, ggplot2, PowerBi
 - Open source application: Jupyter Notebook
-- 
+- Web creation tools: HTML, CSS, Bootstrap, Javasscript
 <br>
 <br>
 <div>
