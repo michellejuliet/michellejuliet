@@ -29,7 +29,12 @@
 - ⚡ Fun fact: I used to want to be a pilot when I was younger, now I'm happily writing codes 😆
 
 ### Languages and Tools
-Python, R, HTML, CSS, SQL, pandas, NumPy, MATLAB, Tableau, Ms Excel, PowerBi,
+- Technical Skills: Python, R and SQL
+- Data manipulation & analysis tools: Pandas, NumPy, dplyr
+- Machine learning libraries: Scikit-learn, TensorFlow, PyTorch
+- Visualization tools: Tableau, Matplotlib, ggplot2, PowerBi
+- Open source application: Jupyter Notebook
+- 
 <br>
 <br>
 <div>
