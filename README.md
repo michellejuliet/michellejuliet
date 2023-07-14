@@ -20,22 +20,22 @@
 -->
 ### Bio:
 
-- 🔭 I’m currently working on Machine learning with python
-- 🌱 I’m currently learning Data Science
+- 🔭 I’m currently working on Machine learning 
+- 🌱 I’m currently learning.
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Tensorflow or Keras
-- 💬 Ask me about Data, code and beauty
+- 💬 Ask me about Data, code and cars
 - 📫 How to reach me: Twitter, LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I used to want to be a pilot when I was younger, now I'm happily writing codes 😆
 
 ### Languages and Tools
-- Technical Skills: Python, R and SQL
+- Technical Skills: Python, R and SQL, SPSS
 - Data manipulation & analysis tools: Pandas, NumPy, dplyr
 - Machine learning libraries: Scikit-learn, TensorFlow, PyTorch
 - Visualization tools: Tableau, Matplotlib, ggplot2, PowerBi
-- Open source application: Jupyter Notebook
-- Web creation tools: HTML, CSS, Bootstrap, Javasscript
+- Open source application: Jupyter Notebook, R studeio
+- Web creation tools: HTML, CSS, Bootstrap, Javascript
 <br>
 <br>
 <div>
