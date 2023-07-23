@@ -32,9 +32,10 @@
 ### Languages and Tools
 - Technical Skills: Python, R, SQL, SPSS
 - Data manipulation & analysis tools: Pandas, NumPy, dplyr
-- Machine learning libraries: Scikit-learn, TensorFlow, PyTorch
+- Machine learning libraries: Scikit-learn, TensorFlow, PyTorch, Scipy
 - Visualization tools: Tableau, Matplotlib, ggplot2, PowerBi, Seaborn
 - Open source application: Jupyter Notebook, R studio
+- Web Scraping: Requests, Beautiful Soup
 - Web creation tools: HTML, CSS, Bootstrap, Javascript
 <br>
 <br>
