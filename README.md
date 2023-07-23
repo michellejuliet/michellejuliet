@@ -30,11 +30,14 @@
 - ⚡ Fun fact: I used to want to be a pilot when I was younger, now I'm happily writing codes 😆
 
 ### Languages and Tools
-- Technical Skills: Python, R, SQL, SPSS
-- Data manipulation & analysis tools: Pandas, NumPy, dplyr
+- Technical Skills/ Programming language: Python, R, SQL, SPSS
+- Data manipulation tools: Pandas, NumPy, dplyr
+- Data analysis: Feature Engineering, Data Wrangling, EDA
+- Math: Statistics, Linear Algebra, Differential Calculus
+- ML: Classification, Regression, Reinforcement learning, Deep learning, Clustering
 - Machine learning libraries: Scikit-learn, TensorFlow, PyTorch, Scipy
 - Visualization tools: Tableau, Matplotlib, ggplot2, PowerBi, Seaborn
-- Open source application: Jupyter Notebook, R studio
+- Open source application/ IDE: Jupyter Notebook, R studio, Colaboratory, Spyder
 - Web Scraping: Requests, Beautiful Soup
 - Web creation tools: HTML, CSS, Bootstrap, Javascript
 <br>
