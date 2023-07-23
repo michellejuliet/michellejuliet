@@ -24,17 +24,17 @@
 - 🌱 I’m currently learning.
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Tensorflow or Keras
-- 💬 Ask me about Data, code and cars
+- 💬 Ask me about Data, code and AI
 - 📫 How to reach me: Twitter, LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I used to want to be a pilot when I was younger, now I'm happily writing codes 😆
 
 ### Languages and Tools
-- Technical Skills: Python, R and SQL, SPSS
+- Technical Skills: Python, R, SQL, SPSS
 - Data manipulation & analysis tools: Pandas, NumPy, dplyr
 - Machine learning libraries: Scikit-learn, TensorFlow, PyTorch
-- Visualization tools: Tableau, Matplotlib, ggplot2, PowerBi
-- Open source application: Jupyter Notebook, R studeio
+- Visualization tools: Tableau, Matplotlib, ggplot2, PowerBi, Seaborn
+- Open source application: Jupyter Notebook, R studio
 - Web creation tools: HTML, CSS, Bootstrap, Javascript
 <br>
 <br>
