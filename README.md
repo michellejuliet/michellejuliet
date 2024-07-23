@@ -40,8 +40,14 @@
 - Open source application/ IDE: Jupyter Notebook, R studio, Colaboratory, Spyder
 - Web Scraping: Requests, Beautiful Soup
 - Web creation tools: HTML, CSS, Bootstrap, Javascript
-<br>
-<br>
+<br> <br>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=michellejuliet)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellejuliet)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michellejuliet&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<br><br>
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
