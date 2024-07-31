@@ -13,6 +13,16 @@
   Bonjour!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <p align="center">
+  <samp>
+    A passionate coder in love with
+    <br><br>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+    <br><br>
+    Let's turn ☕ into 💻!
+  </samp>
+</p>
+
 </div>
 
 <!--
@@ -46,7 +56,11 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellejuliet)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michellejuliet&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 <br><br>
-
+<!-- Update the image sources to include the "PAT_1" environment variable as a query parameter -->
+<p align="center"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michellejuliet&show_icons=true&locale=en&layout=compact&theme=radical&token=${PAT_1}" alt="Michellejuliet" width=390 height=180/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michellejuliet&show_icons=true&theme=radical&token=${PAT_1}" alt="karanidenis" width=410 height=170/>
+</p>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
