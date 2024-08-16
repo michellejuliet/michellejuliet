@@ -19,7 +19,6 @@
     <br><br>
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
     <br><br>
-    Let's turn ☕ into 💻!
   </samp>
 </p>
 
