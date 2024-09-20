@@ -47,7 +47,7 @@
 - Machine learning libraries: Scikit-learn, TensorFlow, PyTorch, Scipy
 - Visualization tools: Tableau, Matplotlib, ggplot2, PowerBi, Seaborn
 - Open source application/ IDE: Jupyter Notebook, R studio, Colaboratory, Spyder
-- Web Scraping: Requests, Beautiful Soup
+- Web Scraping: Requests, Beautiful Soup, Selenium
 - Web creation tools: HTML, CSS, Bootstrap, Javascript
 <br> <br>
 
