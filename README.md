@@ -7,6 +7,7 @@
   <a href="https://www.twitter.com/mitchyj_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <br>
     <a href="https://public.tableau.com/app/profile/michelle.juliet/">Tableau Projects </a>
 </div>
 <h1>
