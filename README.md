@@ -52,9 +52,9 @@
 - Web creation tools: HTML, CSS, Bootstrap, Javascript
 <br> <br>
 
-<!--![Github stats](https://github-readme-stats.vercel.app/api?username=michellejuliet)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellejuliet)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michellejuliet&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<[Github stats](https://github-readme-stats.vercel.app/api?username=michellejuliet)
+< [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellejuliet)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michellejuliet&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 <!-- Update the image sources to include the "PAT_1" environment variable as a query parameter -->
 <p align="center"> 
